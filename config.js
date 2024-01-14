@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['918402887115', '𝐆 𝐫 𝐱 𝐕 𝐞  ズ', true],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['918638238336', '𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜', true], 
+  ['918638238336', 'ＷＩＺ', true], 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝞒𝙔𝙐𝞗𝞙𝞘𝞘𝞜 × 𝐆 𝐫 𝐱 𝐕 𝐞  ズ'
+global.botname = 'ＷＩＺ × 𝐆 𝐫 𝐱 𝐕 𝐞  ズ'
 global.premium = 'true'
 global.packname = 'GRXVEYARD' 
 global.author = '@GRXVEY' 
